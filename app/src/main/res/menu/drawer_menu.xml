@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/takeRideOption"
+        android:title="Take A Ride" />
+    <item
+        android:id="@+id/offerRideOption"
+        android:title="Offer A Ride" />
+    <item
+        android:id="@+id/myBookedRidesOption"
+        android:title="My Booked Rides" />
+    <item
+        android:id="@+id/myOfferedRidesOption"
+        android:title="My Offered Rides" />
+</menu>

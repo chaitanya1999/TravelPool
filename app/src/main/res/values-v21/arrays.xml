@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_items">
+        <item>Take A Ride</item>
+        <item>Offer Ride</item>
+        <item>My Booked Rides</item>
+        <item>My Offered Rides</item>
+    </string-array>
+</resources>

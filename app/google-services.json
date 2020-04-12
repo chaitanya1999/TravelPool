@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "148890295470",
+    "firebase_url": "https://travelpool-54377.firebaseio.com",
+    "project_id": "travelpool-54377",
+    "storage_bucket": "travelpool-54377.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148890295470:android:3c13a7d58a0dbf52d0613f",
+        "android_client_info": {
+          "package_name": "com.quantumcoders.travelpool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148890295470-eam65n4d730ahh9ei40l4kf4mbov0ng9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Uw0ZwkpjwwJ4WBxqGmyug-_6IcS1QZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148890295470-eam65n4d730ahh9ei40l4kf4mbov0ng9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
